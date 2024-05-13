@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleBackend.Web", "PeopleBackend.Web\PeopleBackend.Web.csproj", "{2D12C2B4-1518-486F-B780-6B84D2A146A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleBackend.Data", "PeopleBackend.Data\PeopleBackend.Data.csproj", "{62B73897-D9E6-49A9-BC83-94F803BAFFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D12C2B4-1518-486F-B780-6B84D2A146A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D12C2B4-1518-486F-B780-6B84D2A146A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D12C2B4-1518-486F-B780-6B84D2A146A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D12C2B4-1518-486F-B780-6B84D2A146A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B73897-D9E6-49A9-BC83-94F803BAFFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B73897-D9E6-49A9-BC83-94F803BAFFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B73897-D9E6-49A9-BC83-94F803BAFFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B73897-D9E6-49A9-BC83-94F803BAFFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@PeopleBackend.Web_HostAddress = http://localhost:5253
+
+GET {{PeopleBackend.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
